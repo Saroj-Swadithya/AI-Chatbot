@@ -1,5 +1,5 @@
 # chatgpt-clone
-Build Yourown ChatGPT with Cohere API &amp; Streamlit
+Welcome to the ChatGPT Clone repository! This project leverages LangChain, Streamlit, and Cohere to create a powerful conversational AI system that can accept both text and voice inputs and generate human-like text responses. If you're interested in building your own AI-powered chatbot or simply exploring the capabilities of modern natural language processing technologies, you've come to the right place.
 
 ### Instructions:
 
